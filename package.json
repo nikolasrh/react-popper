@@ -91,7 +91,7 @@
     "eslint-plugin-promise": "^6.0.0",
     "eslint-plugin-react": "^7.19.0",
     "eslint-plugin-react-hooks": "^4.4.0",
-    "flow-bin": "^0.147.0",
+    "flow-bin": "^0.175.1",
     "flow-copy-source": "^2.0.9",
     "gh-pages": "^2.2.0",
     "git-branch-is": "^3.1.0",
